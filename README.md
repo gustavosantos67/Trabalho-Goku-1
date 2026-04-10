@@ -2,6 +2,6 @@
 Trabalho de Estrutura de dados 
 
 Gregory Jonker de Macedo - Greg0906
-Andrey kayky baitler - andreybaitler 
-
+Andrey kayky baitler - andreybaitler.   
 Daniel Camilo Rickli - danielrickli
+Gustavo Gabriel dos Santos - gustavosantos67
